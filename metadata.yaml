@@ -1,11 +1,16 @@
 _repo: Life-in-Afrikanderland-as-viewed-by-an-Afrikander-A-story-of-life-in-South-Africa-based-on-tr__58503
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58503-h/images/cover.jpg
 creator:
   author:
     agent_name: CIOS
     gutenberg_agent_id: '49997'
     url: http://www.gutenberg.org/2009/agents/49997
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58503#Life-in-Afrikanderland-as-viewed-by-an-Afrikander-A-story-of-life-in-South-Africa-based-on-tr_
 gutenberg_issued: '2018-12-19'
 gutenberg_type: Text
 identifiers:
